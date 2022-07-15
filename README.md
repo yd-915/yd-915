@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yd-915
-- � I’m a Web/App Frontend Developper with a certain profeciency in React-Native, HTML, CSS, JavaScript and Python.
+- � I’m a Web/App Frontend Developer.
 - 🌱 I’m interested in Blockchain technology and cryptography
 - 📫 How to reach me 
 Email: y.dideh@yahoo.com
